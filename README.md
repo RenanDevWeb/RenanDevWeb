@@ -1,16 +1,25 @@
-### Hi there 👋
+Olá Meu Nome e Renan Salmazio!
 
-<!--
-**RenanDevWeb/RenanDevWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em ciência da computação e estudo atualmente desenvolvimento web.
 
-Here are some ideas to get you started:
+Atualmente estou focando em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End : 
+            Html
+            Css3,
+            Bootstrap,
+            
+ Back-end: 
+       Nodejs
+       
+ Data:
+  Mysql
+  Mongodb
+  
+  
+ Aqui está meu linkedin: https://www.linkedin.com/in/renanarizasalmazio/ 
+  
+  
+
+
+
