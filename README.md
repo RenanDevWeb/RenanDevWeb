@@ -1,25 +1,28 @@
-Olá Meu Nome e Renan Salmazio!
+## Hello My name is Renan Salmazio!
 
-Sou formado em ciência da computação e estudo atualmente desenvolvimento web.
+### I have a degree in computer science and currently study web development.
 
-Atualmente estou focando em:
+### I'm currently focused on the technologies below:
 
-Front-End : 
-            Html
-            Css3,
-            Bootstrap,
+**Front-End:** 
+
+            - HTML5
+            - CSS3
+            - Bootstrap 
             
- Back-end: 
-       Nodejs
+ **Back-end:** 
        
- Data:
-  Mysql
-  Mongodb
-  
-  
- Aqui está meu linkedin: https://www.linkedin.com/in/renanarizasalmazio/ 
-  
-  
+       - Nodejs
+       
+ **Data:** 
+       
+       - MySql
+       - Mongodb
+       
+### Here it is my linkedin: [Linkedin](https://www.linkedin.com/in/renanarizasalmazio/) 
+
+
+
 
 
 
