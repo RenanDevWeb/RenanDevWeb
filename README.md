@@ -2,6 +2,7 @@
 
  I have a degree in computer science and currently study web development.
  I'm currently focused on the technologies below:
+ 
 **Front-End:** 
 
             - HTML5
