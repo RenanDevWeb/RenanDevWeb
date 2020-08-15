@@ -31,7 +31,7 @@
 
 ### Contact ME
 
-[![Linkedin Badge](https://img.shields.io/badge/-RenanSalmazio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanarizasalmazio/)](https://www.linkedin.com/in/renanarizasalmazio/)   [![Gmail Badge](https://img.shields.io/badge/-renandevweb-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renandevweb@gmail.com)](mailto:renandevweb@gmail.com) ![Twitter Folloow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo=Twitter&style=plastic)
+[![Linkedin Badge](https://img.shields.io/badge/-RenanSalmazio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanarizasalmazio/)](https://www.linkedin.com/in/renanarizasalmazio/)   [![Gmail Badge](https://img.shields.io/badge/-renandevweb-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:RenanDevWeb)](mailto:renandevweb@gmail.com) [![Twitter Folloow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo=Twitter&style=plastic)](https://twitter.com/renansalmazio)
 
 
 
