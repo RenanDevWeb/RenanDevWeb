@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Renan Salmazio</h1>
+<h1 align="center">Hi! I'm Renan Salmazio</h1>
 <h3 align="center">I have a degree in computer science and currently study web development! i love the way the technology connect the peoples around the world</h3>
 
-- 👨‍💻 All of my projects are available at [https://renandevweb.github.io/renandev/](https://renandevweb.github.io/renandev/)
+- 👨‍💻 Here are my site: [https://renandevweb.github.io/renandev/](https://renandevweb.github.io/renandev/)
 
-- ⚡ Fun fact **I play acoustic guitar, eletric guitar and bass.**
+- ⚡ Fun fact:  **I play acoustic guitar, eletric guitar and bass.**
 
 ### Here some Technology i know: 
 
@@ -24,14 +24,18 @@
 </p>
 
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renandevweb&show_icons=true" alt="renandevweb" /></p>
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandevweb&layout=compact&hide=html" alt="renandevweb" /></p>
+
+
+
+
 
 <br>
 
 ### Contact ME
 
-[![Linkedin Badge](https://img.shields.io/badge/-RenanSalmazio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanarizasalmazio/)](https://www.linkedin.com/in/renanarizasalmazio/)   [![Gmail Badge](https://img.shields.io/badge/-renandevweb-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:RenanDevWeb)](mailto:renandevweb@gmail.com) [![Twitter Folloow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo=Twitter&style=plastic)](https://twitter.com/renansalmazio)
+[![Linkedin Badge](https://img.shields.io/badge/-RenanSalmazio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanarizasalmazio/)](https://www.linkedin.com/in/renanarizasalmazio/)   [![Gmail Badge](https://img.shields.io/badge/-renandevweb-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:RenanDevWeb)](mailto:renandevweb@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo=Twitter&logoColor=1DA1F2&style=flat-square)](https://twitter.com/renansalmazio)
 
 
 
