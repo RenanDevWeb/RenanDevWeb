@@ -10,12 +10,12 @@
 
 <p align="left">    
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/html.png" alt="html5" width="40" height="40"/>
-<img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/html.png" alt="css3" width="40" height="40"/>
+<img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/css.png" alt="css3" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/js.png" alt="javascript" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/react.png" alt="react" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/node.png" alt="nodejs" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/express.png" alt="express" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/mysql.png" alt="mysql" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/mongo.jpg" alt="mongodb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
