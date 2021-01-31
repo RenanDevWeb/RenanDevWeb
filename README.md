@@ -17,7 +17,7 @@
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/node.png" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/express.png" alt="express" width="40" height="40"/>
 <img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/mysql.png" alt="mysql" width="40" height="40"/>
-<img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/mongo.jpg" alt="mongodb" width="40" height="40"/>
+<img src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/mongo.png" alt="mongodb" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
