@@ -4,7 +4,7 @@
 - 👨‍💻 Here are my site: [https://renandevweb.github.io/Renandevv/](https://renandevweb.github.io/Renandevv/)
 
 - ⚡ Fun fact:  **I play acoustic guitar, eletric guitar and bass.**
-- ⚡ Fun fact:  **I love and study the norse mythology**
+- :heart: Fun fact:  **I love and study the norse mythology**
 
 ## Contact me
 
