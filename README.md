@@ -22,14 +22,12 @@ Follow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo
 ## Here some Technology i use:
 
 <p align="left">
-    <a href="https://www.w3.org"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>&nbsp; <a href="https://www.w3.org" target="_blank"><img
+    <a href="https://www.w3.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt="css3" width="40" height="40" /><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /></a>&nbsp; <a
-        href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>&nbsp; <a href="https://www.mongodb.com/" target="_blank"><a
+        href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+           </a>&nbsp; <a href="https://www.mongodb.com/" target="_blank"><a
             href="https://getbootstrap.com" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" /> </a>&nbsp; <a href="https://www.w3schools.com/css/"
@@ -39,14 +37,12 @@ Follow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
                     alt="sass" width="40" height="40" /> </a></img>&nbsp;<a href="https://styled-components.com"
                 target="_blank"> <img src="https://styled-components.com/logo.png" alt="styled-components" width="40"
-                    height="40" /> </a>&nbsp;<a href="https://nodejs.org" target="_blank"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                    alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://expressjs.com"
-                target="_blank"><img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                    alt="express" width="40" height="40" /> </a> &nbsp;<a href="https://www.mongodb.com/"
+                    height="40" /> </a>&nbsp;<a href="https://nodejs.org" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"    alt="nodejs" width="40" height="40"  />
+          </a>&nbsp; <a href="https://expressjs.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  alt="express" width="40" height="40"  /></a> &nbsp;<a href="https://www.mongodb.com/"
                 target="_blank"><a href="https://www.mongodb.com/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
                         alt="mongodb" width="40" height="40" /> </a> &nbsp;<a href="https://www.mysql.com/"
                     target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
