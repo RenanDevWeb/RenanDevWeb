@@ -5,7 +5,7 @@
 
 
 <h1 align="center" style="color:#0093d3; font-weight: bold; text-align: center">Hi! I'm Renan Salmazio</h1>
-<h2  style="color:#0093d3;">i love the way the technology connect the peoples around the world</h2>
+<h2 align="center" style="color:#0093d3;">i love the way the technology connect the peoples around the world</h2>
 
 
 
