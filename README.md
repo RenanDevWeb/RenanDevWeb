@@ -44,11 +44,9 @@ Follow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+
   <img alt="github-snake" src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/github-user-contribution.svg" />
-</picture>
+
 
 
 <p align="center"> <img
