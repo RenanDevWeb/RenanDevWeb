@@ -5,7 +5,7 @@
 
 
 <h1 align="center" style="color:#0093d3; font-weight: bold; text-align: center">Hi! I'm Renan Salmazio</h1>
-<h2  style="color:#0093d3; ">i love the way the technology connect the peoples around the world</h2>
+<h2  style="color:#0093d3;">i love the way the technology connect the peoples around the world</h2>
 
 
 
@@ -93,17 +93,12 @@ Follow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo
 
 
 [![Renan Salmazio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=renandevweb&theme=transparent)](https://github.com/RenanDevWeb)
-
-
 ![Renan Salmazio GitHub stats](https://github-readme-stats.vercel.app/api?username=renandevweb&theme=transparent&show_icons=true)
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+
   <img alt="github-snake" src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/github-user-contribution.svg" />
-</picture>
 
 
 <p align="center"> <img
