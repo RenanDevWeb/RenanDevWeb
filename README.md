@@ -10,7 +10,6 @@
 
 
 
-
 - 👨‍💻 <span style="color:#0093d3; ">Here are my site: [https://renandevweb.github.io/Renandevv/](https://renandevweb.github.io/Renandevv/)</span>
 - 👨‍ <span style="color:#0093d3; ">  I have a degree in computer science and currently study web development!</span>
 - 🌱 <span style="color:#0093d3; ">  I’m currently learning **ReactJs and NodeJS** </span>
@@ -98,8 +97,8 @@ Follow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo
 
 
 
-  <img alt="github-snake" src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/github-user-contribution.svg" />
-
+<!-- <img alt="github-snake" src="https://github.com/RenanDevWeb/RenanDevWeb/blob/master/github-user-contribution.svg" />
+-->
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=renandevweb&label=Profile%20views&color=0093d3&style=flat"
