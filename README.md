@@ -3,9 +3,8 @@
 
 
 
-
-<h1 align="center" style="color:#0093d3; font-weight: bold; text-align: center">Hi! I'm Renan Salmazio</h1>
-<h2 align="center" style="color:#0093d3;">i love the way the technology connect the peoples around the world</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=40C463&random=false&width=435&lines=Hi!+I'm+Renan+Salmazio)](https://git.io/typing-svg)
+<h2  style="color:#0093d3">i love the way the technology connect the peoples around the world</h2>
 
 
 
@@ -32,7 +31,7 @@ Follow](https://img.shields.io/twitter/follow/renansalmazio?color=%231DA1F2&logo
 
 
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,sass,styledcomponents,express,mongodb,mysql,github,git,postman,vite,figma&theme=dark&perline=20" />
   </a>
