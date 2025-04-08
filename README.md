@@ -30,9 +30,9 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /><br>Tailwind</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="40" height="40"/><br>Bulma</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/><br>Material UI</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" width="48" /><br>Styled Components</td>
  </tr>  
  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" width="48" /><br>Styled Components</td>
     <td align="center"><img src="https://emotion.sh/logo-48x48.png" width="48" /><br>Emotion</td>
    </tr>
 
