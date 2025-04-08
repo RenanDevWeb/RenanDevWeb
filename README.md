@@ -63,7 +63,7 @@
 <table> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /><br>MySQL </td> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /><br>MongoDB </td> <td align="center"> <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" /><br>SQLite </td> <td align="center"> <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /><br>PostgreSQL </td> </tr> </table>
 
 
-## 🔧 Versionamento Deploye Code Style
+## 🔧 Versionamento Deploy and Code Style
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" /><br>Git</td>
