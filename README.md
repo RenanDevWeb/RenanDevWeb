@@ -48,6 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandevweb&theme=transparent)](https://github.com/RenanDevWeb)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renandevweb&theme=transparent&show_icons=true)
 <img src="https://github-profile-metrics.vercel.app/api?username=renandevweb&show=languages,stars,commits,prs,issues,contribs&theme=dark" />
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=renandevweb&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=renandevweb&label=Profile%20views&color=0093d3&style=flat" alt="renandevweb" />
