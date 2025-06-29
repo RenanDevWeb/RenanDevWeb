@@ -1,7 +1,7 @@
 # 👋 About Me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=40C463&width=435&lines=Hi!+I'm+Renan+Salmazio)](https://git.io/typing-svg)
-<h2>💻 Fullstack Developer | 📊 Web Analytics Specialist </h2>
+<h2>📊 Web Analytics Specialist | 💻 Digital Analytics Programmer </h2>
 
 > **Transforming data into smart decisions and code into digital impact.**
 
@@ -15,6 +15,40 @@
 
 ## Here some Technology i use:
 
+
+
+## 📊 Web Analytics
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.google.com/images/icons/product/analytics-64.png" width="48" alt="Google Analytics" /><br>Google Analytics
+    </td>
+    <td align="center">
+      <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="48" alt="Google Tag Manager" /><br>Tag Manager
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" width="48" alt="Google Ads" /><br>Google Ads
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" width="48" alt="Looker Studio" /><br>Looker Studio
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" width="48" alt="Facebook Pixel" /><br>Facebook Pixel
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="48" alt="LinkedIn Ads" /><br>LinkedIn Ads
+    </td>
+   <td align="center">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-micon/512/tiktok-512.png" width="48" alt="TikTok Ads" /><br>TikTok Ads
+  </td>
+     <td align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="48" alt="Big query" /><br>Big Query
+  </td>
+     <td align="center">
+  <img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" width="48" alt="Excel" /><br>Excel
+  </td>
+  </tr>
+</table>
 
 ## 🚀 Front-End
 <table>
@@ -33,7 +67,6 @@
  <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/><br>Material UI</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" width="48" /><br>Styled Components</td>
-    <td align="center"><img src="https://emotion.sh/logo-48x48.png" width="48" /><br>Emotion</td>
    </tr>
 
 </table>
@@ -89,31 +122,7 @@
   </tr>
 </table>
 
-## 📊 Web Analytics
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://www.google.com/images/icons/product/analytics-64.png" width="48" alt="Google Analytics" /><br>Google Analytics
-    </td>
-    <td align="center">
-      <img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_tag_manager.svg" width="48" alt="Google Tag Manager" /><br>Tag Manager
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=ui4CTPMMDCFh&format=png&color=000000" width="48" alt="Google Ads" /><br>Google Ads
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" width="48" alt="Looker Studio" /><br>Looker Studio
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" width="48" alt="Facebook Pixel" /><br>Facebook Pixel
-    </td>
-    <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="48" alt="LinkedIn Ads" /><br>LinkedIn Ads
-    </td>
-   <td align="center">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-micon/512/tiktok-512.png" width="48" alt="TikTok Ads" /><br>TikTok Ads
-</td>
-  </tr>
+
 </table>
 
 
